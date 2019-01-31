@@ -1,2 +1,3 @@
 # Attendance-Management-system
-use xampp server
+Attendance-Management-system Portal System  to Ease theasers for Uploading Daily Attendance and As well as Students to Check thier attendance in daily basis .
+# use xampp server
